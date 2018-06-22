@@ -1,2 +1,7 @@
 *.pyc
 .DS_Store
+ve/
+venv/
+django_oembed.egg-info
+dist/
+build/
