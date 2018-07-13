@@ -1,3 +1,5 @@
+from __future__ import unicode_literals
+
 from setuptools import setup, find_packages
  
 setup(
@@ -5,8 +7,8 @@ setup(
     version='0.1.1',
     description='A collection of Django tools which make it easy to change text filled with oembed links into the embedded objects themselves.',
     author='Eric Florenzano',
-    author_email='floguy@gmail.com',
-    url='http://django-oembed.googlecode.com',
+    author_email='ctl-dev@columbia.edu',
+    url='https://github.com/ccnmtl/django-oembed',
     packages=find_packages(),
     classifiers=[
         'Development Status :: 3 - Alpha',
@@ -19,4 +21,5 @@ setup(
     ],
     include_package_data=True,
     zip_safe=False,
+    test_suite='tests.runtests',
 )
