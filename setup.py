@@ -4,10 +4,10 @@ from setuptools import setup, find_packages
  
 setup(
     name='django-oembed',
-    version='0.1.1',
+    version='0.1.4ctl',
     description='A collection of Django tools which make it easy to change text filled with oembed links into the embedded objects themselves.',
     author='Eric Florenzano',
-    author_email='ctl-dev@columbia.edu',
+    author_email='floguy@gmail.com',
     url='https://github.com/ccnmtl/django-oembed',
     packages=find_packages(),
     classifiers=[
