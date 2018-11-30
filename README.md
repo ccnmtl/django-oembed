@@ -1,4 +1,3 @@
-=======================
 django-oembed  [![Build Status](https://travis-ci.org/ccnmtl/django-oembed.svg?branch=master)](https://travis-ci.org/ccnmtl/django-oembed)
 =======================
 
