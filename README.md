@@ -1,5 +1,5 @@
 =======================
-django-oembed
+django-oembed  [![Build Status](https://travis-ci.org/ccnmtl/django-oembed.svg?branch=master)](https://travis-ci.org/ccnmtl/django-oembed)
 =======================
 
 This is a collection of tools for Django to allow for replacing links in text
